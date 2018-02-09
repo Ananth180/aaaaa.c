@@ -1,4 +1,5 @@
-import java.util.*;
+#include<stdio.h>
+#include<conio.h>
 
 public class min {
 
